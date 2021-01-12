@@ -14,7 +14,7 @@ Start `henplus` and register the plugin. Use the `plug-in` command for this. Thi
 
 ### Usage ###
 
-When enabled, the plugin will automatically register a new session `rollback` session property for each connection you make. 
+When enabled, the plugin will automatically register a new `rollback` session property for each connection you make. 
 
 By default, it will be set to `off`, meaning, don't attempt to rollback on any error.
 
